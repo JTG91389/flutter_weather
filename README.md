@@ -2,7 +2,7 @@
 
 A new Flutter Weather project.
 
-## Getting Started
+## Details
 
 This project is a starting point for a Flutter Weather application.
 
